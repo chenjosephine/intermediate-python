@@ -1,0 +1,9 @@
+﻿Id,Name,Marks,Subject
+1,Ravi,89,Math
+2,Subbu,30,Math
+2,Subbu,30,Math
+3,Ajay,Ninety,Math
+4,,50,Math
+5,Satyam,,Math
+6,David,-30,Math
+7,Rob,89,NaN
